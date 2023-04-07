@@ -11,6 +11,7 @@
     </parent>
 
     <artifactId>jpa-entities</artifactId>
+    <packaging>jar</packaging>
 
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.hibernate.orm/hibernate-core -->
