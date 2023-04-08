@@ -1,4 +1,4 @@
-package org.wruthless.entities;
+package org.wruthless.intellij.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
